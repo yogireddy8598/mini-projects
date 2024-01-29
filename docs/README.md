@@ -5,7 +5,7 @@ Python Project Collection
 
 SR No   | Project | Author  
 --- | --- | ---
-1 | [Hello World](https://github.com/chavarera/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
+1 | [Hello World](https://github.com/chavarera/python-mini-projects/tree/master/projects/Hello) | [Yogi Reddy](https://github.com/chavarera)
 2 | [JSON to CSV](https://github.com/chavarera/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
 3 | [Random Password Generator](https://github.com/chavarera/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499)
 4 | [Instagram Profile Info](https://github.com/chavarera/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera)
